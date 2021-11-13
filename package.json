@@ -1,0 +1,24 @@
+{
+  "name": "aprendiendo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/El-Juanpa/Aprendiendo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/El-Juanpa/Aprendiendo/issues"
+  },
+  "homepage": "https://github.com/El-Juanpa/Aprendiendo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
